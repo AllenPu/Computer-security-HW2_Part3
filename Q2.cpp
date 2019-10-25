@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main()
+int main(int argc, const char **argv, const char **envp)
 {
  int c[]={12,15,221,3,432,54,16,67};
  int size_c=sizeof(c);

@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 using namespace std;
-int main(void){
+int main(int argc, const char **argv, const char **envp){
     // Your code here!
     int a = 3;
     int b = 5;
